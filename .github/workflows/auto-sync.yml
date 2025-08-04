@@ -38,12 +38,16 @@ jobs:
         GOOGLE_SHEET_RANGE: A:L
       run: npm run sync
     
-    - name: Commit changes
+     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add Dynamic.html
-        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-sync tutor data from Google Sheets"
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto-sync tutor data from Google Sheets"
+        fi
     
     - name: Push changes
       uses: ad-m/github-push-action@master
