@@ -9,7 +9,8 @@
     "sync": "node sync.js",
     "setup": "node setup.js",
     "server": "node server.js",
-    "webhook": "node server.js"
+    "webhook": "node server.js",
+    "scrape": "node scrapeTutors.js"
   },
   "dependencies": {
     "googleapis": "^128.0.0",
