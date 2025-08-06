@@ -43,7 +43,7 @@ jobs:
           xdg-utils
     
     - name: Run scraper
-      run: npm run scrape
+      run: node scrapeTutors.js
     
     - name: Check for changes
       id: check_changes
