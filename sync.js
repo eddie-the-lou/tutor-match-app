@@ -54,7 +54,7 @@ async function fetchTutorData() {
           tutor.active = value.toLowerCase() === 'active' || value === 'TRUE';
         } else if (headerLower.includes('graduating year')) {
           tutor.grade = value;
-        } else if (headerLower.includes('Major/Intended Major. Type full name of all your majors/minors and separate with commas. For example: "Economics, Sociology" would be adequate.')) {
+        } else if (headerLower.includes('major/intended major')) {
           tutor.major = value;
         } else if (headerLower.includes('please submit your bio following the example structure below')) {
           tutor.bio = value;
