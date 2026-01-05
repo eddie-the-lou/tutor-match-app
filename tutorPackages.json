@@ -573,6 +573,7 @@
       "College Counseling",
       "Science & Technology Tutoring - Psychology",
       "AP Test Private Tutoring",
+      "Other",
       "PSAT Private Tutoring",
       "Workshop",
       "English Tutoring - Public Speaking"
@@ -615,7 +616,7 @@
   },
   {
     "url": "https://hsatutoring.tutorocean.com/host/Mahipatel",
-    "name": "‌",
+    "name": "Mahi P.",
     "packages": [
       "ACT",
       "Math Tutoring - Algebra 1",
@@ -942,6 +943,7 @@
       "Math Tutoring - Pre-calculus",
       "Math Tutoring - AP Calculus AB",
       "Math Tutoring - AP Calculus BC",
+      "Science & Technology Tutoring - Computer Science",
       "Math Tutoring - Algebra 1",
       "Math Tutoring - Algebra 2",
       "Math Tutoring - Geometry & Trigonometry",
@@ -952,11 +954,21 @@
       "College Counseling",
       "Science & Technology Tutoring - Environmental Science",
       "Science & Technology Tutoring - Chemistry",
+      "Debate Bootcamp",
+      "MUN",
+      "PSAT Private Tutoring",
       "Prep Time",
       "Workshop",
       "English Tutoring - Public Speaking",
       "English Tutoring - Writing - Academic Focus",
-      "English Tutoring - Writing - Research Focus"
+      "English Tutoring - Writing - Research Focus",
+      "English Tutoring - AP English Literature and Composition",
+      "Math Tutoring - Calculus",
+      "Math Tutoring - AP Statistics",
+      "Science & Technology Tutoring - AP Computer Science",
+      "Science & Technology Tutoring - AP Environmental Science",
+      "Science & Technology Tutoring - AP Chemistry",
+      "Science & Technology Tutoring - AP Physics"
     ]
   },
   {
@@ -1174,11 +1186,11 @@
       "English Tutoring - Public Speaking",
       "English Tutoring - Writing - Academic Focus",
       "English Tutoring - Writing - Research Focus",
+      "English Tutoring - AP English Literature and Composition",
       "English Tutoring - AP English Language and Composition",
       "History Tutoring - AP United States History",
-      "History Tutoring - AP United States Government and Politics",
-      "English Tutoring - AP English Literature and Composition",
-      "History Tutoring - AP Modern World History"
+      "History Tutoring - AP Modern World History",
+      "History Tutoring - AP United States Government and Politics"
     ]
   },
   {
@@ -1196,8 +1208,8 @@
       "Prep Time",
       "Workshop",
       "English Tutoring - Writing - Academic Focus",
-      "English Tutoring - AP English Language and Composition",
-      "English Tutoring - AP English Literature and Composition"
+      "English Tutoring - AP English Literature and Composition",
+      "English Tutoring - AP English Language and Composition"
     ]
   },
   {
@@ -1295,8 +1307,8 @@
       "SAT",
       "College Counseling",
       "English Tutoring - Writing - Academic Focus",
-      "History Tutoring - AP United States Government and Politics",
       "English Tutoring - AP English Literature and Composition",
+      "History Tutoring - AP United States Government and Politics",
       "Math Tutoring - Calculus",
       "Science & Technology Tutoring - AP Biology"
     ]
@@ -1321,8 +1333,8 @@
       "AP Test Private Tutoring",
       "English Tutoring - Writing - Academic Focus",
       "English Tutoring - Writing - Research Focus",
-      "English Tutoring - AP English Language and Composition",
       "English Tutoring - AP English Literature and Composition",
+      "English Tutoring - AP English Language and Composition",
       "Science & Technology Tutoring - AP Psychology"
     ]
   },
@@ -1347,9 +1359,9 @@
       "Science & Technology Tutoring - Chemistry",
       "Prep Time",
       "Workshop",
-      "Science & Technology Tutoring - AP Computer Science",
       "Math Tutoring - Calculus",
       "Math Tutoring - AP Statistics",
+      "Science & Technology Tutoring - AP Computer Science",
       "Science & Technology Tutoring - AP Chemistry",
       "Science & Technology Tutoring - AP Physics"
     ]
