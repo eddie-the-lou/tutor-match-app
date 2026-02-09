@@ -1,7 +1,7 @@
 [
   {
     "url": "https://hsatutoring.tutorocean.com/host/HarronLee",
-    "name": "Harron",
+    "name": "‌",
     "packages": [
       "Math Tutoring - Elementary School",
       "Math Tutoring - Middle School",
@@ -51,7 +51,7 @@
   },
   {
     "url": "https://hsatutoring.tutorocean.com/host/hailey",
-    "name": "Hailey",
+    "name": "‌",
     "packages": [
       "History Tutoring - United States History",
       "History Tutoring - Ancient World History",
@@ -845,11 +845,6 @@
     ]
   },
   {
-    "url": "https://hsatutoring.tutorocean.com/host/rhiannetabayoyong",
-    "name": "Rhianne Mae T.",
-    "packages": []
-  },
-  {
     "url": "https://hsatutoring.tutorocean.com/host/divangelguerrero",
     "name": "Divangel",
     "packages": [
@@ -1339,6 +1334,29 @@
     "packages": []
   },
   {
+    "url": "https://hsatutoring.tutorocean.com/host/mietiadi",
+    "name": "Mieti A.",
+    "packages": [
+      "Math Tutoring - Elementary School",
+      "Math Tutoring - Middle School",
+      "Math Tutoring - Pre-calculus",
+      "Math Tutoring - Algebra 1",
+      "Math Tutoring - Algebra 2",
+      "Math Tutoring - Geometry & Trigonometry",
+      "Science & Technology Tutoring - Biology",
+      "College Counseling",
+      "Science & Technology Tutoring - Psychology",
+      "Prep Time",
+      "Workshop",
+      "English Tutoring - AP English Language and Composition",
+      "English Tutoring - AP English Literature and Composition",
+      "Math Tutoring - Calculus",
+      "Science & Technology Tutoring - AP Environmental Science",
+      "Science & Technology Tutoring - AP Biology",
+      "Science & Technology Tutoring - AP Psychology"
+    ]
+  },
+  {
     "url": "https://hsatutoring.tutorocean.com/host/saiyamittal",
     "name": "Saiya M.",
     "packages": [
@@ -1398,6 +1416,17 @@
       "Prep Time",
       "Workshop",
       "Math Tutoring - Calculus"
+    ]
+  },
+  {
+    "url": "https://hsatutoring.tutorocean.com/host/edmundchan",
+    "name": "Edmund C.",
+    "packages": [
+      "ACT",
+      "SAT",
+      "College Counseling",
+      "Prep Time",
+      "Workshop"
     ]
   }
 ]
