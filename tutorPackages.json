@@ -1,12 +1,7 @@
 [
   {
-    "url": "https://hsatutoring.tutorocean.com/host/HarronLee",
-    "name": "‌",
-    "packages": []
-  },
-  {
     "url": "https://hsatutoring.tutorocean.com/host/pascalefung",
-    "name": "Pascale F.",
+    "name": "‌",
     "packages": [
       "ACT",
       "Math Tutoring - Elementary School",
@@ -26,18 +21,8 @@
     ]
   },
   {
-    "url": "https://hsatutoring.tutorocean.com/host/spencerlee",
-    "name": "Spencer",
-    "packages": []
-  },
-  {
-    "url": "https://hsatutoring.tutorocean.com/host/cgguia",
-    "name": "‌",
-    "packages": []
-  },
-  {
     "url": "https://hsatutoring.tutorocean.com/host/darrenseto",
-    "name": "‌",
+    "name": "Darren S.",
     "packages": [
       "SAT",
       "College Counseling",
@@ -47,13 +32,8 @@
     ]
   },
   {
-    "url": "https://hsatutoring.tutorocean.com/host/ashleyvazquez",
-    "name": "Ashley Vazquez Romo",
-    "packages": []
-  },
-  {
     "url": "https://hsatutoring.tutorocean.com/host/mariiasolovii",
-    "name": "‌",
+    "name": "Mariia S.",
     "packages": []
   },
   {
@@ -194,18 +174,6 @@
     ]
   },
   {
-    "url": "https://hsatutoring.tutorocean.com/host/condoleezzadwuye",
-    "name": "Condoleezza D.",
-    "packages": [
-      "History Tutoring - United States History",
-      "History Tutoring - Modern World History",
-      "Math Tutoring - Elementary School",
-      "Math Tutoring - Middle School",
-      "English Tutoring - Literature & Comprehension",
-      "English Tutoring - Writing - Academic Focus"
-    ]
-  },
-  {
     "url": "https://hsatutoring.tutorocean.com/host/rauf",
     "name": "Rauf",
     "packages": [
@@ -248,8 +216,8 @@
       "English Tutoring - Public Speaking",
       "English Tutoring - Writing - Academic Focus",
       "English Tutoring - Writing - Research Focus",
-      "English Tutoring - AP English Literature and Composition",
-      "English Tutoring - AP English Language and Composition"
+      "English Tutoring - AP English Language and Composition",
+      "English Tutoring - AP English Literature and Composition"
     ]
   },
   {
@@ -272,31 +240,6 @@
       "English Tutoring - Public Speaking",
       "English Tutoring - Writing - Academic Focus",
       "English Tutoring - Writing - Research Focus"
-    ]
-  },
-  {
-    "url": "https://hsatutoring.tutorocean.com/host/Nike",
-    "name": "Nike",
-    "packages": []
-  },
-  {
-    "url": "https://hsatutoring.tutorocean.com/host/richardpoplawski",
-    "name": "Richard Poplawski",
-    "packages": [
-      "Math Tutoring - AP Calculus AB",
-      "Math Tutoring - Algebra 1",
-      "Math Tutoring - Algebra 2",
-      "Math Tutoring - Geometry & Trigonometry",
-      "Math Tutoring - Statistics and Probability",
-      "Science & Technology Tutoring - Biology",
-      "Science & Technology Tutoring - Physics",
-      "SAT",
-      "Language Tutoring - AP Spanish",
-      "Science & Technology Tutoring - Chemistry",
-      "PSAT Private Tutoring",
-      "Science & Technology Tutoring - AP Environmental Science",
-      "Science & Technology Tutoring - AP Biology",
-      "Science & Technology Tutoring - AP Physics"
     ]
   },
   {
@@ -332,21 +275,8 @@
     ]
   },
   {
-    "url": "https://hsatutoring.tutorocean.com/host/moniola",
-    "name": "Moniola O.",
-    "packages": [
-      "ACT",
-      "Math Tutoring - Elementary School",
-      "Math Tutoring - Middle School",
-      "Math Tutoring - Algebra 1",
-      "Math Tutoring - Algebra 2",
-      "College Counseling",
-      "Crimson Coaching"
-    ]
-  },
-  {
     "url": "https://hsatutoring.tutorocean.com/host/stanblejwas",
-    "name": "Stan B.",
+    "name": "‌",
     "packages": [
       "ACT",
       "History Tutoring - Modern World History",
@@ -381,6 +311,7 @@
       "College Counseling",
       "Language Tutoring - AP Spanish",
       "Science & Technology Tutoring - Psychology",
+      "Other",
       "Prep Time",
       "Workshop",
       "Math Tutoring - Calculus",
@@ -463,8 +394,8 @@
       "English Tutoring - Public Speaking",
       "Advanced Placement",
       "Math Tutoring - Calculus",
-      "Science & Technology Tutoring - AP Biology",
       "Science & Technology Tutoring - AP Chemistry",
+      "Science & Technology Tutoring - AP Biology",
       "Science & Technology Tutoring - AP Psychology"
     ]
   },
@@ -487,11 +418,6 @@
   {
     "url": "https://hsatutoring.tutorocean.com/host/marianaraca",
     "name": "Mariana R.",
-    "packages": []
-  },
-  {
-    "url": "https://hsatutoring.tutorocean.com/host/mellenmasea",
-    "name": "‌",
     "packages": []
   },
   {
@@ -520,20 +446,6 @@
     ]
   },
   {
-    "url": "https://hsatutoring.tutorocean.com/host/eastonsinger",
-    "name": "Easton S.",
-    "packages": [
-      "Math Tutoring - Pre-calculus",
-      "Math Tutoring - AP Calculus AB",
-      "Science & Technology Tutoring - Computer Science",
-      "Math Tutoring - Algebra 1",
-      "Math Tutoring - Geometry & Trigonometry",
-      "AP Test Private Tutoring",
-      "Pre-Algebra Private Tutoring",
-      "Other"
-    ]
-  },
-  {
     "url": "https://hsatutoring.tutorocean.com/host/nickyliu",
     "name": "Nicky L.",
     "packages": [
@@ -559,9 +471,9 @@
       "Prep Time",
       "English Tutoring - Writing - Academic Focus",
       "English Tutoring - Writing - Research Focus",
-      "Science & Technology Tutoring - AP Biology",
       "Science & Technology Tutoring - AP Chemistry",
-      "Science & Technology Tutoring - AP Physics"
+      "Science & Technology Tutoring - AP Physics",
+      "Science & Technology Tutoring - AP Biology"
     ]
   },
   {
@@ -659,7 +571,7 @@
   },
   {
     "url": "https://hsatutoring.tutorocean.com/host/divangelguerrero",
-    "name": "Divangel",
+    "name": "‌",
     "packages": [
       "ACT",
       "Math Tutoring - Elementary School",
@@ -775,10 +687,10 @@
       "English Tutoring - Public Speaking",
       "English Tutoring - Writing - Academic Focus",
       "English Tutoring - Writing - Research Focus",
+      "Science & Technology Tutoring - AP Computer Science",
       "English Tutoring - AP English Literature and Composition",
       "Math Tutoring - Calculus",
       "Math Tutoring - AP Statistics",
-      "Science & Technology Tutoring - AP Computer Science",
       "Science & Technology Tutoring - AP Environmental Science",
       "Science & Technology Tutoring - AP Chemistry",
       "Science & Technology Tutoring - AP Physics"
@@ -824,11 +736,6 @@
       "English Tutoring - Public Speaking",
       "English Tutoring - Writing - Academic Focus"
     ]
-  },
-  {
-    "url": "https://hsatutoring.tutorocean.com/host/cadywang",
-    "name": "Cady Wang",
-    "packages": []
   },
   {
     "url": "https://hsatutoring.tutorocean.com/host/isabellaraskin",
@@ -978,9 +885,9 @@
       "Workshop",
       "English Tutoring - Public Speaking",
       "History Tutoring - AP United States Government and Politics",
+      "Science & Technology Tutoring - AP Computer Science",
       "Language Tutoring - Portuguese",
-      "Math Tutoring - Calculus",
-      "Science & Technology Tutoring - AP Computer Science"
+      "Math Tutoring - Calculus"
     ]
   },
   {
@@ -1030,11 +937,11 @@
       "English Tutoring - Public Speaking",
       "English Tutoring - Writing - Academic Focus",
       "English Tutoring - Writing - Research Focus",
-      "English Tutoring - AP English Literature and Composition",
       "English Tutoring - AP English Language and Composition",
       "History Tutoring - AP United States History",
-      "History Tutoring - AP Modern World History",
-      "History Tutoring - AP United States Government and Politics"
+      "History Tutoring - AP United States Government and Politics",
+      "English Tutoring - AP English Literature and Composition",
+      "History Tutoring - AP Modern World History"
     ]
   },
   {
@@ -1052,8 +959,8 @@
       "Prep Time",
       "Workshop",
       "English Tutoring - Writing - Academic Focus",
-      "English Tutoring - AP English Literature and Composition",
-      "English Tutoring - AP English Language and Composition"
+      "English Tutoring - AP English Language and Composition",
+      "English Tutoring - AP English Literature and Composition"
     ]
   },
   {
@@ -1075,11 +982,6 @@
       "English Tutoring - Writing - Academic Focus",
       "English Tutoring - Writing - Research Focus"
     ]
-  },
-  {
-    "url": "https://hsatutoring.tutorocean.com/host/aliciabickel",
-    "name": "Alicia B.",
-    "packages": []
   },
   {
     "url": "https://hsatutoring.tutorocean.com/host/sarahjiang",
@@ -1155,12 +1057,12 @@
       "SAT",
       "College Counseling",
       "English Tutoring - Writing - Academic Focus",
-      "English Tutoring - AP English Literature and Composition",
       "History Tutoring - AP United States History",
       "History Tutoring - AP United States Government and Politics",
+      "English Tutoring - AP English Literature and Composition",
       "Math Tutoring - Calculus",
-      "Science & Technology Tutoring - AP Biology",
-      "Science & Technology Tutoring - AP Chemistry"
+      "Science & Technology Tutoring - AP Chemistry",
+      "Science & Technology Tutoring - AP Biology"
     ]
   },
   {
@@ -1183,8 +1085,8 @@
       "Science & Technology Tutoring - Psychology",
       "Prep Time",
       "Workshop",
-      "English Tutoring - AP English Literature and Composition",
       "English Tutoring - AP English Language and Composition",
+      "English Tutoring - AP English Literature and Composition",
       "Math Tutoring - Calculus",
       "Science & Technology Tutoring - AP Environmental Science",
       "Science & Technology Tutoring - AP Biology",
@@ -1202,8 +1104,8 @@
       "College Counseling",
       "English Tutoring - Writing - Academic Focus",
       "English Tutoring - Writing - Research Focus",
-      "English Tutoring - AP English Literature and Composition",
       "English Tutoring - AP English Language and Composition",
+      "English Tutoring - AP English Literature and Composition",
       "Science & Technology Tutoring - AP Psychology"
     ]
   },
@@ -1238,11 +1140,12 @@
       "SAT",
       "College Counseling",
       "Science & Technology Tutoring - Chemistry",
+      "Other",
       "Prep Time",
       "Workshop",
+      "Science & Technology Tutoring - AP Computer Science",
       "Math Tutoring - Calculus",
       "Math Tutoring - AP Statistics",
-      "Science & Technology Tutoring - AP Computer Science",
       "Science & Technology Tutoring - AP Chemistry",
       "Science & Technology Tutoring - AP Physics"
     ]
@@ -1280,6 +1183,7 @@
     "name": "Davin Y.",
     "packages": [
       "ACT",
+      "History Tutoring - United States History",
       "Math Tutoring - Middle School",
       "Math Tutoring - AP Calculus AB",
       "Math Tutoring - AP Calculus BC",
@@ -1287,9 +1191,13 @@
       "Math Tutoring - Algebra 1",
       "Math Tutoring - Algebra 2",
       "Math Tutoring - Statistics and Probability",
+      "SAT",
+      "College Counseling",
+      "Prep Time",
+      "Workshop",
+      "Science & Technology Tutoring - AP Computer Science",
       "Math Tutoring - Calculus",
-      "Math Tutoring - AP Statistics",
-      "Science & Technology Tutoring - AP Computer Science"
+      "Math Tutoring - AP Statistics"
     ]
   },
   {
@@ -1310,10 +1218,5 @@
       "Workshop",
       "Math Tutoring - Calculus"
     ]
-  },
-  {
-    "url": "https://hsatutoring.tutorocean.com/host/rojinakarimirad",
-    "name": "Rojina K.",
-    "packages": []
   }
 ]
